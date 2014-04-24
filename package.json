@@ -1,8 +1,14 @@
 {
   "name": "gulp-angular-injector",
-  "version": "0.0.1",
-  "description": "Awesome module",
-  "keywords": [],
+  "version": "0.5.0",
+  "description": "This module is meant to solve an annoying problem of minification and dependency injection in Angular.js.",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "minification",
+    "di",
+    "gulpplugin"
+  ],
   "homepage": "https://github.com/alexgorbatchev/gulp-angular-injector",
   "bugs": "https://github.com/alexgorbatchev/gulp-angular-injector/issues",
   "author": {
