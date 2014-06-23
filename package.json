@@ -26,7 +26,7 @@
     "pretest": "./node_modules/.bin/coffee --bare --output ./lib --compile ./src/*.coffee"
   },
   "dependencies": {
-    "angular-injector": "^0.5.1",
+    "angular-injector": "^1.0.0",
     "event-stream": "^3.1.2"
   },
   "devDependencies": {
